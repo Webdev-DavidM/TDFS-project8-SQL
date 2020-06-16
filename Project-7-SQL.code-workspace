@@ -1,0 +1,15 @@
+{
+  "folders": [
+    {
+      "name": "Project-7-SQL",
+      "path": "."
+    },
+    {
+      "name": "example-markup",
+      "path": "../../../Downloads/sql_library_manager-v1/example-markup"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "example-markup"
+  }
+}
